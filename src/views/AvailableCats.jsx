@@ -6,7 +6,7 @@ const availableCats = [
   { name: 'Shadow', age: '1' },
   { name: 'Pumpkin', age: '3' },
   { name: 'Luna', age: '4' },
-  { name: 'Simba', age: '2' },
+  { name: 'Simba', age: '233333' }, 
 ];
 
 export default function AvailableCats() {
