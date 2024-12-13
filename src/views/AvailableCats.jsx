@@ -1,10 +1,10 @@
 import { useEffect, useState } from 'react';
 
 const availableCats = [
-  { name: 'Whiskers', age: '2',breed:'Sphynx'},
+  { name: 'Whiskers', age: '2',breed:'Abyssinian'},
   { name: 'Mittens', age: '2',breed:'peterbald' },
   { name: 'Shadow', age: '1',breed:'Birman' },
-  { name: 'Pumpkin', age: '3',breed:'Abyssinian' },
+  { name: 'Pumpkin', age: '3',breed:'Sphynx' },
   { name: 'Luna', age: '4',breed:'Persian' },
   { name: 'Simba', age: '2',breed:'Bengal' },
 ];
